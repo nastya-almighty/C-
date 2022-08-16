@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "project1_HelloConsole/1.0.0": {
+      "project21/1.0.0": {
         "runtime": {
-          "project1_HelloConsole.dll": {}
+          "project21.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "project1_HelloConsole/1.0.0": {
+    "project21/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

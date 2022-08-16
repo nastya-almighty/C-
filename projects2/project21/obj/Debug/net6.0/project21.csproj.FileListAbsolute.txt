@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\bin\Debug\net6.0\project21.exe
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\bin\Debug\net6.0\project21.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\bin\Debug\net6.0\project21.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\bin\Debug\net6.0\project21.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\bin\Debug\net6.0\project21.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\project21.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\project21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\project21.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\project21.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\project21.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\project21.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\refint\project21.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\project21.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\project21.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects2\project21\obj\Debug\net6.0\ref\project21.dll
