@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\array_sorting.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\array_sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\array_sorting.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\array_sorting.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\array_sorting.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\bin\Debug\net6.0\array_sorting.exe
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\bin\Debug\net6.0\array_sorting.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\bin\Debug\net6.0\array_sorting.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\bin\Debug\net6.0\array_sorting.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\bin\Debug\net6.0\array_sorting.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\array_sorting.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\refint\array_sorting.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\array_sorting.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\array_sorting.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\array_sorting\obj\Debug\net6.0\ref\array_sorting.dll

@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\bin\Debug\net6.0\ЦиклВЦикле.exe
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\bin\Debug\net6.0\ЦиклВЦикле.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\bin\Debug\net6.0\ЦиклВЦикле.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\bin\Debug\net6.0\ЦиклВЦикле.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\bin\Debug\net6.0\ЦиклВЦикле.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\ЦиклВЦикле.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\ЦиклВЦикле.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\ЦиклВЦикле.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\ЦиклВЦикле.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\ЦиклВЦикле.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\ЦиклВЦикле.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\refint\ЦиклВЦикле.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\ЦиклВЦикле.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\ЦиклВЦикле.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\ЦиклВЦикле\obj\Debug\net6.0\ref\ЦиклВЦикле.dll

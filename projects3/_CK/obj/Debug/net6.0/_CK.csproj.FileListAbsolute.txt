@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\_CK.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\_CK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\_CK.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\_CK.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\_CK.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\bin\Debug\net6.0\_CK.exe
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\bin\Debug\net6.0\_CK.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\bin\Debug\net6.0\_CK.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\bin\Debug\net6.0\_CK.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\bin\Debug\net6.0\_CK.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\_CK.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\refint\_CK.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\_CK.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\_CK.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\_CK\obj\Debug\net6.0\ref\_CK.dll

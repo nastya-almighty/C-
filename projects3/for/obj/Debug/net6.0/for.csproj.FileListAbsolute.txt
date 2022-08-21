@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\for.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\for.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\for.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\for.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\bin\Debug\net6.0\for.exe
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\bin\Debug\net6.0\for.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\bin\Debug\net6.0\for.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\bin\Debug\net6.0\for.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\bin\Debug\net6.0\for.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\for.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\refint\for.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\for.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\for.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects3\for\obj\Debug\net6.0\ref\for.dll
