@@ -4,7 +4,7 @@ int h = int.Parse(Console.ReadLine());
 Console.Clear();
 
 
-for (int i = h; i >= 0; i--)
+for (int i = h - 1; i >= 0; i--)
 {
     Console.SetCursorPosition(h, i);
     Console.WriteLine("*");
@@ -17,6 +17,5 @@ for (int i = h; i >= 0; i--)
         Console.Write("*");
     }
 }
-Console.WriteLine();
-Console.SetCursorPosition(h - 1, h + 1);
+Console.SetCursorPosition(h - 1, h);
 Console.WriteLine("| |");
