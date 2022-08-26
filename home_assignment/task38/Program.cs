@@ -18,7 +18,6 @@ int [] NewArray(int N, int MinValue, int MaxValue)
 int [] array = NewArray(N, MinValue, MaxValue);
 Console.WriteLine(String.Join(" ", array));
 
-int x = 0;
 int i = 0;
 
 int MinMax(int [] array)
