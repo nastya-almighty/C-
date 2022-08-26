@@ -18,11 +18,24 @@ int [] NewArray(int N, int MinValue, int MaxValue)
 int [] array = NewArray(N, MinValue, MaxValue);
 Console.WriteLine(String.Join(" ", array));
 
-int sum = 0;
-
-for (int i = 1; i < N; i += 2)
+int [] BubbleSort(int [] array)
 {
-    sum += array[i];
+    int temp;
+    for (int i = 0; i < N; i++)
+    {
+        for (int j = i + 1; j < N; j++)
+        {
+            if(array[j] > array[i])
+            {
+                temp = array[i];
+                array[i] = array [j];
+                array[j] = temp;
+            }
+        }
+    }
+   return array;
 }
-Console.Write("cумма чисел с нечетным индексом - ");
-Console.WriteLine(sum);
+
+Console.WriteLine();
+Console.Write("отсортированный массив: ");
+Console.WriteLine(String.Join(" ", BubbleSort(array)));

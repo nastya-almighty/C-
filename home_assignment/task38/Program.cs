@@ -18,11 +18,27 @@ int [] NewArray(int N, int MinValue, int MaxValue)
 int [] array = NewArray(N, MinValue, MaxValue);
 Console.WriteLine(String.Join(" ", array));
 
-int sum = 0;
+int x = 0;
+int i = 0;
 
-for (int i = 1; i < N; i += 2)
+int MinMax(int [] array)
 {
-    sum += array[i];
+    int min = array[i];
+    int max = array[i];
+    for (int i = 0; i < N; i++)
+    {
+       if (array[i] > max) 
+       {
+        max = array[i];
+       }
+       if (array[i] < min) 
+       {
+        min = array[i];
+       }
+    }
+    int x = max - min;
+    return x;
 }
-Console.Write("cумма чисел с нечетным индексом - ");
-Console.WriteLine(sum);
+
+Console.Write("разница между максимальным и минимальным числами массива: ");
+Console.WriteLine(MinMax(array));

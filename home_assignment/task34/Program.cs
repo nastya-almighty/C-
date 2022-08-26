@@ -1,34 +1,33 @@
 ﻿Console.WriteLine("создаём массив из положительных трехзначных чисел");
 Console.WriteLine("сколько элементов будет в массиве? ");
-int N = int.Parse(Console.ReadLine());
+int size = int.Parse(Console.ReadLine());
 
-void FillArray(int[] array)
+int [] NewArray(int size, int MinValue, int MaxValue)
 {
-    int length = array.Length;
-    int index = 0;
-    while (index < length)
+    int [] res = new int [size];
+    for(int i = 0; i < size; i++)
     {
-        array[index] = new Random().Next(100, 1000);
-        Console.WriteLine(array[index]);
-        index++;
+        res[i] = new Random().Next(MinValue, MaxValue);
     }
+    return res;
 }
 
+int [] array = NewArray(size, 100, 1000);
+Console.WriteLine(String.Join(" ", array));
 
-int[] array = new int [N];
-
-FillArray(array);
-
-
-int x = 0;
-
-for(int i = 0; i < array.Length; i++)
+int CountEvenNums(int [] array)
 {
-    if(array[i] % 2 == 0)
+    int count = 0;
+    for(int i = 0; i < array.Length; i++)
     {
-        x = x + 1;
+        if(array[i] % 2 == 0)
+        {
+            count++;
+        }
     }
+    return count;
 }
 
-Console.Write("количество четных чисел в массиве - ");
-Console.WriteLine(x);
+Console.Write("количество чётных чисел в массиве - ");
+
+Console.WriteLine(CountEvenNums(array));

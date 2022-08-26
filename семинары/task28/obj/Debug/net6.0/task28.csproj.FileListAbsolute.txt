@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\task28.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\task28.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\task28.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\task28.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\bin\Debug\net6.0\task28.exe
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\bin\Debug\net6.0\task28.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\bin\Debug\net6.0\task28.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\bin\Debug\net6.0\task28.dll
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\bin\Debug\net6.0\task28.pdb
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\task28.dll
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\refint\task28.dll
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\task28.pdb
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\task28.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task28\obj\Debug\net6.0\ref\task28.dll

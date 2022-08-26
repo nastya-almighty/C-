@@ -2,27 +2,30 @@
 int MinValue = int.Parse(Console.ReadLine());
 Console.WriteLine("задайте максимум массива: ");
 int MaxValue = int.Parse(Console.ReadLine());
-Console.WriteLine("сколько элементов будет в массиве? ");
-int N = int.Parse(Console.ReadLine());
 
-int [] NewArray(int N, int MinValue, int MaxValue)
+
+Console.WriteLine("сколько элементов будет в массиве? ");
+int size = int.Parse(Console.ReadLine());
+
+int [] NewArray(int size, int MinValue, int MaxValue)
 {
-    int [] res = new int [N];
-    for(int i = 0; i < N; i++)
+    int [] res = new int [size];
+    for(int i = 0; i < size; i++)
     {
         res[i] = new Random().Next(MinValue, MaxValue);
     }
     return res;
 }
 
-int [] array = NewArray(N, MinValue, MaxValue);
+int [] array = NewArray(size, MinValue, MaxValue);
 Console.WriteLine(String.Join(" ", array));
 
-int sum = 0;
-
-for (int i = 1; i < N; i += 2)
-{
-    sum += array[i];
-}
-Console.Write("cумма чисел с нечетным индексом - ");
-Console.WriteLine(sum);
+int [] Rev (int [] mas)
+    {
+        for (int i = 0; i < size; i++)
+        {
+            array[i] *= -1;
+        }
+        return mas;
+    }
+Console.WriteLine(String.Join(" ", Rev(array)));

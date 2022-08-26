@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\task35.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\task35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\task35.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\task35.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\task35.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\bin\Debug\net6.0\task35.exe
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\bin\Debug\net6.0\task35.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\bin\Debug\net6.0\task35.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\bin\Debug\net6.0\task35.dll
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\bin\Debug\net6.0\task35.pdb
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\task35.dll
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\refint\task35.dll
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\task35.pdb
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\task35.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\семинары\task35\obj\Debug\net6.0\ref\task35.dll
