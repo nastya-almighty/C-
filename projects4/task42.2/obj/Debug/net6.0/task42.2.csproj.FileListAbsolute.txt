@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\bin\Debug\net6.0\task42.2.exe
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\bin\Debug\net6.0\task42.2.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\bin\Debug\net6.0\task42.2.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\bin\Debug\net6.0\task42.2.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\bin\Debug\net6.0\task42.2.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\task42.2.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\task42.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\task42.2.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\task42.2.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\task42.2.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\task42.2.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\refint\task42.2.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\task42.2.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\task42.2.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\task42.2\obj\Debug\net6.0\ref\task42.2.dll

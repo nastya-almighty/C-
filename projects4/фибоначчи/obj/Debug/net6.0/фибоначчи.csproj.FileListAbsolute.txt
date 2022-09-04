@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\фибоначчи.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\фибоначчи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\фибоначчи.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\фибоначчи.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\фибоначчи.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\bin\Debug\net6.0\фибоначчи.exe
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\bin\Debug\net6.0\фибоначчи.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\bin\Debug\net6.0\фибоначчи.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\bin\Debug\net6.0\фибоначчи.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\bin\Debug\net6.0\фибоначчи.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\фибоначчи.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\refint\фибоначчи.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\фибоначчи.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\фибоначчи.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\фибоначчи\obj\Debug\net6.0\ref\фибоначчи.dll

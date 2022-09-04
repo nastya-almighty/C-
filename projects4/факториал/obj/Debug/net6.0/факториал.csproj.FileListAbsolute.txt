@@ -1,0 +1,15 @@
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\факториал.csproj.AssemblyReference.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\факториал.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\факториал.AssemblyInfoInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\факториал.AssemblyInfo.cs
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\факториал.csproj.CoreCompileInputs.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\bin\Debug\net6.0\факториал.exe
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\bin\Debug\net6.0\факториал.deps.json
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\bin\Debug\net6.0\факториал.runtimeconfig.json
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\bin\Debug\net6.0\факториал.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\bin\Debug\net6.0\факториал.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\факториал.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\refint\факториал.dll
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\факториал.pdb
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\факториал.genruntimeconfig.cache
+C:\Users\anest\Desktop\geekbrains\C#\projects4\факториал\obj\Debug\net6.0\ref\факториал.dll

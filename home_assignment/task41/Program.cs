@@ -1,32 +1,24 @@
-﻿Console.WriteLine("задайте минимум массива: ");
-int MinValue = int.Parse(Console.ReadLine());
-Console.WriteLine("задайте максимум массива: ");
-int MaxValue = int.Parse(Console.ReadLine());
-Console.WriteLine("сколько элементов будет в массиве? ");
-int N = int.Parse(Console.ReadLine());
+﻿Console.WriteLine("сколько элементов будет в массиве? ");
+int M = int.Parse(Console.ReadLine());
 
-int [] NewArray(int N, int MinValue, int MaxValue)
-{
-    int [] res = new int [N];
-    for(int i = 0; i < N; i++)
-    {
-        res[i] = new Random().Next(MinValue, MaxValue);
-    }
-    return res;
-}
 
-int [] array = NewArray(N, MinValue, MaxValue);
+int [] array = NewArray(M);
 Console.WriteLine(String.Join(" ", array));
 
-int CountPos (int [] array)
+int [] NewArray(int M)
 {
+    int [] res = new int [M];
     int count = 0;
-    for (int i = 0; i < N; i++)
+    for(int i = 0; i < M; i++)
     {
-        if (array[i] > 0) count++;
+        Console.WriteLine("Введите свое число");
+        res [i] = Convert.ToInt32(Console.ReadLine());
+        if (res[i] > 0)
+        {
+            count++;
+        }
     }
-    return count;
+    Console.Write("количество положительных элементов в вашем массиве - ");
+    Console.WriteLine(count);
+    return res;
 }
-
-Console.Write("количество положительных чисел в массиве - ");
-Console.WriteLine(CountPos(array));
