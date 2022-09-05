@@ -16,7 +16,7 @@ double [,] GetArray(int m, int n, int MinValue, int MaxValue)
     {
         for (int j = 0; j < n; j++)
         {
-            result[i, j] = Convert.ToDouble(x.Next(MinValue, MaxValue + 1) / 10.0);
+            result[i, j] = Convert.ToDouble(x.Next(MinValue * 10, MaxValue * 10) / 10.0);
         }
     }
     return result;
