@@ -1,17 +1,8 @@
-﻿Console.WriteLine("введите размер вашего трехмерного массива (N): ");
+﻿Console.WriteLine("задайте сторону вашего трехмерного кубического массива: ");
 int N = int.Parse(Console.ReadLine());
-Console.WriteLine("введите минимальное значение в массиве: ");
-int MinValue = int.Parse(Console.ReadLine());
-Console.WriteLine("введите максимальное значение в массиве: ");
-int MaxValue = int.Parse(Console.ReadLine());
 
-bool Check (int z, int Min, int Max)
-{
-    if (N * N * N >= Max - Min - 1) return true;
-    else return false;
-}
 
-int [] SourceArray(int MinValue, int MaxValue, int N)
+int [] SourceArray(int MinValue, int MaxValue)
 {
     int size = MaxValue - MinValue;
     int [] res = new int [size];
@@ -19,9 +10,6 @@ int [] SourceArray(int MinValue, int MaxValue, int N)
       
     return res;
 }
-
-int [] s = SourceArray(MinValue, MaxValue, N);
-int [] sourse = Shuffle(s);
 
 int [] Shuffle (int [] a)
 {
@@ -55,7 +43,7 @@ int [,,] GetArray(int N, int [] sourse, int Min, int Max)
                     for (int z = 0; z < N; z++)
                     {
                         result[x, y, z] = sourse[count];
-                        count++;                  
+                        count++;      
                     }
                 }    
             }
@@ -65,7 +53,7 @@ int [,,] GetArray(int N, int [] sourse, int Min, int Max)
 }
 
 
-void ShowArray (int [,,] arr, int N)
+void ShowArray (int [,,] arr)
 {
     Console.WriteLine("ваш массив: ");
     for (int x = 0; x < N; x++)
@@ -81,10 +69,13 @@ void ShowArray (int [,,] arr, int N)
     }
 }
 
-int [,,] threeDArray = GetArray(N, sourse, MinValue, MaxValue);
+int [] s = SourceArray(10, 99);
 
-if (N * N * N >= MaxValue - MinValue) 
+int [] sourse = Shuffle(s);
+
+if (N < 5)
 {
-    ShowArray(threeDArray, N);
+    int [,,] threeDArray = GetArray(N, sourse, 10, 99);
+    ShowArray(threeDArray);
 }
-else Console.WriteLine("введите другой диапазон");
+else Console.WriteLine("чтобы числа не повторялись, сторона трехмерного массива должна быть меньше 5");
